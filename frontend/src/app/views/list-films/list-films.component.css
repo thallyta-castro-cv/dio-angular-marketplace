@@ -1,0 +1,17 @@
+.fab-button {
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 50px;
+}
+
+.fab-button .btn-description {
+    display: none;
+    position: absolute;
+    bottom: 35%;
+    left: 80%;
+    background-color: #f2f2f2;
+    color: #2c2c2c;
+    padding: .5rem;
+    border-radius: 4px;
+}
+

@@ -1,0 +1,32 @@
+.mat-card-container{
+    display: inline-flex;
+    margin-top: 15px;
+}
+
+.card-film{
+    width: 300px;
+    height: 100%;
+    margin: 0 15px 15px 0;
+}
+
+.card-content {
+    text-align: center;
+    padding: 5px;
+
+}
+
+.card-content img {
+    width: 150px;
+    opacity: .8;
+    transition: .2s;
+    border-radius: 10%;
+}
+
+.card-content img{
+    opacity: 1;
+}
+
+.card-description {
+    margin-top: 7px;
+    text-align: left;
+}

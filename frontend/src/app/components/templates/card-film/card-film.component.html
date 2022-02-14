@@ -1,0 +1,23 @@
+<mat-card-content class="mat-card-container" *ngFor="let film of listFilms">
+    <mat-card class="card-film">
+        <mat-card-title>
+           <h2>{{film.name}}</h2> 
+        </mat-card-title>
+        <mat-card-subtitle>
+            <h3>{{film.category}}</h3>
+        </mat-card-subtitle>
+        <mat-card-content class="card-content">
+            <img src="{{film.imgLink}}" alt="">
+            <p class="card-description">
+                Sinopse é uma descrição sintética da ideia do filme. 
+                Deve deixar claro o que será abordado no documentário, 
+                quem são as personagens e onde se passa, também pode trazer, 
+                sucintamente, por que é importante contar aquela história.
+            </p>
+            <p class="card-description">
+                {{film.price | currency: "BRL"}}
+            </p>
+            <app-select-button (click)="selectFilm(film)"></app-select-button>
+        </mat-card-content>
+    </mat-card>
+</mat-card-content>
