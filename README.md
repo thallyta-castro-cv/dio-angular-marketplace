@@ -11,7 +11,7 @@ No final é pedido os dados do usuário para finalizar o pagamento e concluidos 
 # Layout do projeto
 
 ![Home](1.png)
-!Lista de Filmes](2.png)
+![Lista de Filmes](2.png)
 ![Carrinho](3.png)
 
 # Tecnologias utilizadas
