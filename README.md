@@ -10,7 +10,9 @@ No final é pedido os dados do usuário para finalizar o pagamento e concluidos 
 
 # Layout do projeto
 
-![Prévia da Imagem](previa.png)
+![Home](1.png)
+!Lista de Filmes](2.png)
+![Carrinho](3.png)
 
 # Tecnologias utilizadas
 ## Frontend
