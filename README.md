@@ -1,9 +1,7 @@
 # Marketplace Cinemark Angular
 ![NPM](https://img.shields.io/npm/l/react)
 
-<img align="center" alt="Thallyta-Js" height="200" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
-
-<b> Este projeto foi criado na lab do Digital Innovation One. </b>
+<b> Este projeto foi criado com Angular 14.0.0 para representar o CRUD de uma loja virtual de vendas de filmes. </b>
 
 # Sobre o projeto
 Este projeto consiste em uma aplicação simples em Angular de um marketplace de filmes que consome uma base de dados do arquivo db.json para carregar uma lista de filmes para compra.
